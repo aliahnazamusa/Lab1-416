@@ -31,7 +31,7 @@ public class DnsClient {
 
 		// User inputs query in the format required
 		////////
-		/// test
+		
 		System.out.println("Enter query");
 		//first args is the IP address of host
 		args[0] = inFromUser.readLine();
