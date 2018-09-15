@@ -30,7 +30,7 @@ public class DnsClient {
 		byte[] receiveData = new byte[1024];
 
 		// User inputs query in the format required
-		////////
+		/////////
 		
 		System.out.println("Enter query");
 		//first args is the IP address of host
